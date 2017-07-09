@@ -1,3 +1,11 @@
+
+/**
+ * Author: Thien Le
+ * Github: http://github.com/thienle75
+ * 
+ * This is the socket server apps
+ */
+
 // Keep track of which names are used so that there are no duplicates
 var userNames = (function () {
   var names = {};

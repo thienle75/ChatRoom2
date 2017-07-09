@@ -1,7 +1,11 @@
 'use strict';
 
 /**
+ * Author: Thien Le
+ * Github: http://github.com/thienle75
  * Module dependencies.
+ * This is the main apps
+ * Dependentcy: ExpressJs and Socket.js
  */
 
 var express = require('express');
