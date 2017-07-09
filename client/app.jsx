@@ -216,9 +216,9 @@ var ChatApp = React.createClass({
 					onMessageSubmit={this.handleMessageSubmit}
 					user={this.state.user}
 				/>
-				{/*<ChangeNameForm
+				<ChangeNameForm
 					onChangeName={this.handleChangeName}
-				/>*/}
+				/>
 			</div>
 		);
 	}
